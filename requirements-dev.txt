@@ -1,0 +1,4 @@
+# Dependencias de desarrollo (no hacen falta para compilar ni ejecutar la app).
+# Instalacion: .venv\Scripts\pip install -r requirements-dev.txt
+-r requirements.txt
+pytest>=8.0

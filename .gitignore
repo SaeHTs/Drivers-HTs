@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.spec
+build/
+dist/
+_test_vc.py
+png_*.png
+.superpowers/
+.pytest_cache/
+installer/
+logs/
+.opencode/
+docs/superpowers/
+docs/marca_cuadrada.png
